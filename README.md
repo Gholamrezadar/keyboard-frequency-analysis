@@ -8,8 +8,13 @@ Frequency data is available as csv files: `english_alphabet_freq.csv`, `persian_
 
 ## Heatmaps
 
-![QWERTY](Persian_keyboard_frequency_analysis.png)
 ![QWERTY](QWERTY_keyboard_frequency_analysis.png)
+![QWERTY](Persian_keyboard_frequency_analysis.png)
+
+## Heatmaps - Contrasty
+
+![QWERTY](QWERTY_keyboard_frequency_analysis_contrasty.png)
+![QWERTY](Persian_keyboard_frequency_analysis_contrasty.png)
 
 ## Keyboards
 
